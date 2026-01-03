@@ -39,5 +39,5 @@ In such cases, individual contributions are clearly documented within each repos
 ---
 
 📫 **Contact / Links**
-- LinkedIn: https://www.linkedin.com/in/ruaan-m-884b983a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bc4jybGKxSUCy264c%2B09%2FZA%3D%3D
+- LinkedIn: www.linkedin.com/in/ruaan-m-884b983a4
 - CV available upon request
