@@ -39,5 +39,5 @@ In such cases, individual contributions are clearly documented within each repos
 ---
 
 📫 **Contact / Links**
-- LinkedIn: *(add later if you want)*
+- LinkedIn:
 - CV available upon request
