@@ -1,4 +1,4 @@
-# Ruaan Maharaj
+# Ru'aan Maharaj
 
 Computer Science graduate with a strong interest in artificial intelligence, machine learning, and the theoretical foundations of intelligent systems.
 
